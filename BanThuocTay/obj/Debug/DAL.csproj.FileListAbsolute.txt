@@ -10,3 +10,6 @@ D:\Study\DatabaseSQL\BanThuocTay\BanThuocTay\BanThuocTay\obj\Debug\BanThuocTay.e
 D:\Study\DatabaseSQL\BanThuocTay\BanThuocTay\bin\Debug\BanThuocTay.exe.config
 D:\Study\DatabaseSQL\BanThuocTay\BanThuocTay\obj\Debug\BanThuocTay.exe
 D:\Study\DatabaseSQL\BanThuocTay\BanThuocTay\obj\Debug\BanThuocTay.pdb
+D:\Study\DatabaseSQL\QLNhaThuocTay_DotNet\QLNhaThuocTay_DotNet\BanThuocTay\bin\Debug\BanThuocTay.exe.config
+D:\Study\DatabaseSQL\QLNhaThuocTay_DotNet\QLNhaThuocTay_DotNet\BanThuocTay\obj\Debug\BanThuocTay.exe
+D:\Study\DatabaseSQL\QLNhaThuocTay_DotNet\QLNhaThuocTay_DotNet\BanThuocTay\obj\Debug\BanThuocTay.pdb
