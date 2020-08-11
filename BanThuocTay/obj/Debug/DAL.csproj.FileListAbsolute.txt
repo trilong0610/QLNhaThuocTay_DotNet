@@ -1,0 +1,12 @@
+D:\Study\DatabaseSQL\BanThuocTay\BanThuocTay\BanThuocTay\bin\Debug\BanThuocTay.exe.config
+D:\Study\DatabaseSQL\BanThuocTay\BanThuocTay\BanThuocTay\obj\Debug\BanThuocTay.exe
+D:\Study\DatabaseSQL\BanThuocTay\BanThuocTay\BanThuocTay\obj\Debug\BanThuocTay.pdb
+D:\Study\DatabaseSQL\BanThuocTay\BanThuocTay\BanThuocTay\bin\Debug\BanThuocTay.exe
+D:\Study\DatabaseSQL\BanThuocTay\BanThuocTay\BanThuocTay\bin\Debug\BanThuocTay.pdb
+D:\Study\DatabaseSQL\BanThuocTay\BanThuocTay\BanThuocTay\obj\Debug\BanThuocTay.Main.resources
+D:\Study\DatabaseSQL\BanThuocTay\BanThuocTay\BanThuocTay\obj\Debug\BanThuocTay.Properties.Resources.resources
+D:\Study\DatabaseSQL\BanThuocTay\BanThuocTay\BanThuocTay\obj\Debug\DAL.csproj.GenerateResource.Cache
+D:\Study\DatabaseSQL\BanThuocTay\BanThuocTay\BanThuocTay\obj\Debug\BanThuocTay.exe.licenses
+D:\Study\DatabaseSQL\BanThuocTay\BanThuocTay\bin\Debug\BanThuocTay.exe.config
+D:\Study\DatabaseSQL\BanThuocTay\BanThuocTay\obj\Debug\BanThuocTay.exe
+D:\Study\DatabaseSQL\BanThuocTay\BanThuocTay\obj\Debug\BanThuocTay.pdb

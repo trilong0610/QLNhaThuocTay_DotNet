@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DAL", "BanThuocTay\DAL.csproj", "{EA76848C-033F-48D8-B583-B69C6D0B19B6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EA76848C-033F-48D8-B583-B69C6D0B19B6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EA76848C-033F-48D8-B583-B69C6D0B19B6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EA76848C-033F-48D8-B583-B69C6D0B19B6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EA76848C-033F-48D8-B583-B69C6D0B19B6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {14D1B046-3501-4D29-908C-7954C5DDB1AD}
+	EndGlobalSection
+EndGlobal
